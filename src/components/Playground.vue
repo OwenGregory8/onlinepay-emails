@@ -10,6 +10,6 @@ export default {
   name: "playground",
   data: () => ({
     //
-  })
+  }),
 };
 </script>
